@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @arizon-dread
-- 👀 I’m interested in cloud-native technology
-- 🌱 I’m currently learning to code, hopefully! 
+- 👀 I’m interested in cloud-native technology 
 - 📫 I can be found on twitter [@Arizon](https://twitter.com/Arizon). 
 
 <!---
