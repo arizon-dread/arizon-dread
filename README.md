@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arizon-dread
-- 👀 I’m interested in cloud-native technology 
+- 👀 I’m interested in cloud-native technology. Kubernetes, containers, Golang.
 - 📫 I can be found on twitter [@Arizon](https://twitter.com/Arizon). 
 - <img src="E05A.svg" width="20px" height="20px" alt="Mammoth icon to represent mastodon" /> <a rel="me" href="https://social.spejset.org/@arizon">Mastodon</a>
 <!---
