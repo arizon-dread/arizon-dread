@@ -1,0 +1,22 @@
+font-family = mononoki Nerd Font Mono
+cursor-style = underline
+background-opacity = 0.92
+unfocused-split-opacity = 0.9
+
+keybind = ctrl+shift+'=increase_font_size:2
+keybind = ctrl+-=decrease_font_size:2
+keybind = alt+<=new_split:right
+keybind = alt+-=new_split:down
+keybind = alt+h=goto_split:left
+keybind = alt+j=goto_split:bottom
+keybind = alt+k=goto_split:top
+keybind = alt+l=goto_split:right
+keybind = alt+z=toggle_split_zoom
+
+# quick/quake term. still MacOS only :(
+keybind = global:alt+§=toggle_quick_terminal
+quick-terminal-position = top
+quick-terminal-screen = mouse
+quick-terminal-animation-duration = 0.3
+quick-terminal-autohide = false
+
