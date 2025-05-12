@@ -1,0 +1,11 @@
+#!/usr/bin/fish
+function fish_greeting
+echo'     .air.
+      ":"
+    ___:____     |"\/"|
+  ,'        `.    \  /
+  |  O        \___/  |
+~^~^~^~^~^~^~^~^~^~^~^~^~
+'
+
+end
